@@ -1,0 +1,8 @@
+################### Cmqbeat Configuration Example #########################
+
+############################# Cmqbeat ######################################
+
+cmqbeat:
+  # Defines how often an event is sent to the output
+  period: 1s
+  queuename: "fran-test"

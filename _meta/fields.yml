@@ -1,0 +1,10 @@
+- key: cmqbeat
+  title: cmqbeat
+  description:
+  fields:
+    - name: counter
+      type: long
+      required: true
+      description: >
+        PLEASE UPDATE DOCUMENTATION
+    - name: message
